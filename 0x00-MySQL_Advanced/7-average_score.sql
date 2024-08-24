@@ -1,3 +1,4 @@
+-- procedure that compute and store average score
 DELIMITER $$
 
 DROP PROCEDURE IF EXISTS ComputeAverageScoreForUser;
